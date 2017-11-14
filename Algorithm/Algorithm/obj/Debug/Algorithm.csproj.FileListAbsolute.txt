@@ -1,0 +1,5 @@
+C:\Users\vandel212\Desktop\CS\Algorithm\Algorithm\bin\Debug\Algorithm.dll
+C:\Users\vandel212\Desktop\CS\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\vandel212\Desktop\CS\Algorithm\Algorithm\obj\Debug\Algorithm.dll
+C:\Users\vandel212\Desktop\CS\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\vandel212\Desktop\CS\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache

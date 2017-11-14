@@ -1,0 +1,9 @@
+C:\Users\vandel212\Desktop\CS\Algorithm.Tests\bin\Debug\Algorithm.Tests.dll
+C:\Users\vandel212\Desktop\CS\Algorithm.Tests\bin\Debug\Algorithm.Tests.pdb
+C:\Users\vandel212\Desktop\CS\Algorithm.Tests\bin\Debug\Algorithm.dll
+C:\Users\vandel212\Desktop\CS\Algorithm.Tests\bin\Debug\xunit.dll
+C:\Users\vandel212\Desktop\CS\Algorithm.Tests\bin\Debug\Algorithm.pdb
+C:\Users\vandel212\Desktop\CS\Algorithm.Tests\bin\Debug\xunit.xml
+C:\Users\vandel212\Desktop\CS\Algorithm.Tests\obj\Debug\Algorithm.Tests.csprojResolveAssemblyReference.cache
+C:\Users\vandel212\Desktop\CS\Algorithm.Tests\obj\Debug\Algorithm.Tests.dll
+C:\Users\vandel212\Desktop\CS\Algorithm.Tests\obj\Debug\Algorithm.Tests.pdb
